@@ -20,5 +20,5 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = yes       # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 SPLIT_KEYBOARD = yes
-
+OLED_ENABLE = yes
 LAYOUTS = split_3x5_3
